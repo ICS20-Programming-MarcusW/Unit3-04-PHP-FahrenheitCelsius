@@ -1,0 +1,73 @@
+/* Created by: Marcus Wehbi
+* Created on: April 2022
+* This CSS file defines the style for index.php
+* Unit3-04-PHP-FarenheitCelsius
+*/
+
+body {
+  background-color: #D09A8E !important;
+}
+
+h2 {
+  display: block !important;
+  font-size: 1.5em !important;
+  margin-block-start: 0.83em !important;
+  margin-block-end: 0.83em !important;
+  margin-inline-start: 0px !important;
+  margin-inline-end: 0px !important;
+  font-weight: bold !important;
+  margin: 8px 8px 8px 8px !important; 
+  background-color: rgb(198, 234, 153) !important;
+	color: hsl(138, 100%, 30%) !important;
+	padding: 30px !important;
+	text-align: center !important;
+  border-style: solid !important;
+  border-width: 2px !important;
+  opacity: 0.9 !important;
+}
+
+h4 {
+  colour: #c2570f !important;
+  background-color: #f4ebe1 !important;
+  padding: 20px !important;
+  width: 60% !important;
+  font-size: 21px !important;
+}
+
+hr {
+  border-width: 11px !important;
+}
+
+h3 {
+  colour: #640066 !important;
+  background-color: #dfb8f4 !important;
+  padding: 20px !important;
+  width: 60% !important;
+  font-size: 21px !important;
+}
+
+p {
+	background-color: rgb(244, 190, 229) !important;
+	color: hsl(308, 100%, 23%) !important;
+  padding: 5px !important;
+  text-align: center !important;
+  font-family: garamond !important;
+  border-style: solid !important;
+  border-width: 2px !important;
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  margin: 8px !important;
+}
+
+.res {
+  background-color: #f4dbbe !important;
+}
+
+form {
+  background-color: #f4c7c7 !important;
+  margin: 10px !important;
+  padding: 10px !important;
+}
